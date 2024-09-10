@@ -32,6 +32,21 @@ const inputs = [
 
 let chips = [
   {
+    name: "28C16",
+    image: "./images/28C16.png",
+    dataSheet: "https://eater.net/datasheets/28c16.pdf",
+  },
+  {
+    name: "28C64B",
+    image: "./images/28C64B.png",
+    dataSheet: "https://ww1.microchip.com/downloads/en/DeviceDoc/doc0270.pdf",
+  },
+  {
+    name: "28C256",
+    image: "./images/28C256.png",
+    dataSheet: "https://eater.net/datasheets/28c256.pdf",
+  },
+  {
     name: "74LS00",
     image: "./images/74LS00.png",
     dataSheet: "https://www.futurlec.com/74LS/74LS00.shtml",
