@@ -77,6 +77,16 @@ let chips = [
     dataSheet: "https://www.futurlec.com/74LS/74LS05.shtml",
   },
   {
+    name: "74LS06",
+    image: "./images/74LS06.png",
+    dataSheet: "https://www.ti.com/lit/ds/symlink/sn74ls06.pdf",
+  },
+  {
+    name: "74LS07",
+    image: "./images/74LS07.png",
+    dataSheet: "https://www.ti.com/lit/ds/symlink/sn74ls07.pdf",
+  },
+  {
     name: "74LS08",
     image: "./images/74LS08.png",
     dataSheet: "https://www.futurlec.com/74LS/74LS08.shtml",
@@ -107,6 +117,16 @@ let chips = [
     dataSheet: "https://www.futurlec.com/74LS/74LS20.shtml",
   },
   {
+    name: "74LS21",
+    image: "./images/74LS21.png",
+    dataSheet: "https://www.ti.com/lit/ds/symlink/sn74ls21.pdf",
+  },
+  {
+    name: "74LS27",
+    image: "./images/74LS27.png",
+    dataSheet: "https://www.ti.com/lit/ds/symlink/sn74ls27.pdf",
+  },
+  {
     name: "74LS30",
     image: "./images/74LS30.png",
     dataSheet: "https://www.futurlec.com/74LS/74LS30.shtml",
@@ -115,6 +135,11 @@ let chips = [
     name: "74LS32",
     image: "./images/74LS32.png",
     dataSheet: "https://www.futurlec.com/74LS/74LS32.shtml",
+  },
+  {
+    name: "74LS37",
+    image: "./images/74LS37.png",
+    dataSheet: "https://www.ti.com/lit/ds/symlink/sn54ls37.pdf",
   },
   {
     name: "74LS38",
@@ -200,6 +225,16 @@ let chips = [
     name: "74LS95",
     image: "./images/74LS95.png",
     dataSheet: "https://www.futurlec.com/74LS/74LS95.shtml",
+  },
+  {
+    name: "74LS107",
+    image: "./images/74LS107.png",
+    dataSheet: "https://www.ti.com/lit/ds/symlink/sn74ls107a.pdf",
+  },
+  {
+    name: "74LS109",
+    image: "./images/74LS109.png",
+    dataSheet: "https://www.jameco.com/Jameco/Products/ProdDS/46421.pdf",
   },
   {
     name: "74LS112",
@@ -297,6 +332,16 @@ let chips = [
     dataSheet: "https://www.futurlec.com/74LS/74LS156.shtml",
   },
   {
+    name: "74LS157",
+    image: "./images/74LS157.png",
+    dataSheet: "https://www.jameco.com/Jameco/Products/ProdDS/301612-DS01.pdf",
+  },
+  {
+    name: "74LS158",
+    image: "./images/74LS158.png",
+    dataSheet: "https://www.farnell.com/datasheets/3970099.pdf",
+  },
+  {
     name: "74LS160",
     image: "./images/74LS160.png",
     dataSheet: "https://www.futurlec.com/74LS/74LS160.shtml",
@@ -330,6 +375,17 @@ let chips = [
     name: "74LS166",
     image: "./images/74LS166.png",
     dataSheet: "https://www.futurlec.com/74LS/74LS166.shtml",
+  },
+  {
+    name: "74LS169",
+    image: "./images/74LS169.png",
+    dataSheet:
+      "https://www.alldatasheet.com/datasheet-pdf/view/51042/FAIRCHILD/DM74LS169A.html",
+  },
+  {
+    name: "74LS173",
+    image: "./images/74LS173.png",
+    dataSheet: "https://www.jameco.com/Jameco/Products/ProdDS/46922.pdf",
   },
   {
     name: "74LS174",
@@ -462,14 +518,42 @@ let chips = [
     dataSheet: "https://www.futurlec.com/74LS/74LS279.shtml",
   },
   {
+    name: "74LS280",
+    image: "./images/74LS280.png",
+    dataSheet: "https://wiki.sj.ifsc.edu.br/images/f/f4/74LS280.pdf",
+  },
+  {
     name: "74LS283",
     image: "./images/74LS283.png",
     dataSheet: "https://www.futurlec.com/74LS/74LS283.shtml",
   },
   {
+    name: "74LS293",
+    image: "./images/74LS293.png",
+    dataSheet:
+      "https://www.arcade-museum.com/tech-center/ttl-and-cmos/motorola/290.pdf",
+  },
+  {
+    name: "74LS299",
+    image: "./images/74LS299.png",
+    dataSheet:
+      "https://pdf.datasheetcatalog.com/datasheet/motorola/SN74LS299N.pdf",
+  },
+  {
+    name: "74LS365",
+    image: "./images/74LS365.png",
+    dataSheet: "https://www.ti.com/lit/ds/symlink/sn74ls367a.pdf",
+  },
+  {
     name: "74LS367",
     image: "./images/74LS367.png",
     dataSheet: "https://www.futurlec.com/74LS/74LS367.shtml",
+  },
+  {
+    name: "74LS368",
+    image: "./images/74LS368.png",
+    dataSheet:
+      "https://www.silicon-ark.co.uk/datasheets/74ls368n%20datasheet%20texas.pdf",
   },
   {
     name: "74LS373",
@@ -480,6 +564,11 @@ let chips = [
     name: "74LS374",
     image: "./images/74LS374.png",
     dataSheet: "https://www.futurlec.com/74LS/74LS374.shtml",
+  },
+  {
+    name: "74LS375",
+    image: "./images/74LS375.png",
+    dataSheet: "https://www.farnell.com/datasheets/3970102.pdf",
   },
   {
     name: "74LS377",
@@ -495,6 +584,11 @@ let chips = [
     name: "74LS393",
     image: "./images/74LS393.png",
     dataSheet: "https://www.futurlec.com/74LS/74LS393.shtml",
+  },
+  {
+    name: "74LS423",
+    image: "./images/74LS423.png",
+    dataSheet: "https://www.ti.com/lit/ds/symlink/sn74ls423.pdf",
   },
   {
     name: "74LS540",
@@ -515,6 +609,16 @@ let chips = [
     name: "74LS574",
     image: "./images/74LS574.png",
     dataSheet: "https://www.futurlec.com/74LS/74LS574.shtml",
+  },
+  {
+    name: "74LS590",
+    image: "./images/74LS590.png",
+    dataSheet: "https://www.ti.com/lit/ds/symlink/sn54ls590.pdf",
+  },
+  {
+    name: "74LS595",
+    image: "./images/74LS595.png",
+    dataSheet: "https://www.ti.com/lit/ds/symlink/sn74ls595.pdf",
   },
   {
     name: "74LS640",
