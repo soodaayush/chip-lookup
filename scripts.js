@@ -47,6 +47,31 @@ let chips = [
     dataSheet: "https://eater.net/datasheets/28c256.pdf",
   },
   {
+    name: "HM62256B",
+    image: "./images/HM62256B.png",
+    dataSheet: "https://eater.net/datasheets/hm62256b.pdf",
+  },
+  {
+    name: "MM74HC00",
+    image: "./images/MM74HC00.png",
+    dataSheet: "https://eater.net/datasheets/74hc00.pdf",
+  },
+  {
+    name: "W65C02S",
+    image: "./images/W65C02S.png",
+    dataSheet: "https://eater.net/datasheets/w65c02s.pdf",
+  },
+  {
+    name: "W65C22",
+    image: "./images/W65C22.png",
+    dataSheet: "https://eater.net/datasheets/w65c22.pdf",
+  },
+  {
+    name: "W65C51N",
+    image: "./images/W65C51N.png",
+    dataSheet: "https://eater.net/datasheets/w65c51n.pdf",
+  },
+  {
     name: "74LS00",
     image: "./images/74LS00.png",
     dataSheet: "https://www.futurlec.com/74LS/74LS00.shtml",
